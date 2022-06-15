@@ -1,9 +1,9 @@
 # 💫About Me :
-🔭Hey there! <br>
-🌿I am Prajwal Kumar Bhat , a 20 year old tech enthusiast.<br>
-💻I am an undergraduate student pursuing CSE in NMAMIT and an aspiring
+🔭 Hey there! <br>
+🌱 I am Prajwal Kumar Bhat , a 20 year old tech enthusiast.<br>
+⚡ I am an undergraduate student pursuing CSE in NMAMIT and an aspiring
 developer.<br>
-📧Reach out to me: prajwalkumar0903@gmail.com
+📧 Reach out to me: prajwalkumar0903@gmail.com
 
 
 # 💻Tech Stack
@@ -18,3 +18,5 @@ developer.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrajwalK09&icon=0&color=4)](https://visitcount.itsvg.in)
+🔭
+
