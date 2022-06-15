@@ -17,6 +17,5 @@ developer.<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrajwalK09&icon=0&color=4)](https://visitcount.itsvg.in)
-🔭
+[![](https://visitcount.itsvg.in/api?id=PrajwalK09&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
