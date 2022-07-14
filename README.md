@@ -1,8 +1,10 @@
 # 💫About Me :
 🔭 Hey there! <br>
 🌱 I am Prajwal Kumar Bhat , a 20 year old tech enthusiast.<br>
+<br>
 ⚡ I am an undergraduate student pursuing CSE in NMAMIT and an aspiring
 developer.<br>
+<br>
 📧 Reach out to me: prajwalkumar0903@gmail.com
 
 
