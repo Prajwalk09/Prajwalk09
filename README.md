@@ -4,7 +4,7 @@
 🌱<strong>I am Prajwal Kumar Bhat , a 20 year old tech enthusiast.</strong><br>
 <br>
 ⚡<strong>I am an undergraduate student pursuing CSE in NMAMIT and an aspiring
-developer.<./strong><br>
+developer.</strong><br>
 <br>
  📧<strong>Reach out to me: prajwalkumar0903@gmail.com</strong>
 
