@@ -3,7 +3,7 @@
 <br>
 🌱<strong>I am Prajwal Kumar Bhat , a 20 year old tech enthusiast.</strong><br>
 <br>
-⚡<strong>I am a final year  CS student in NMAMIT.</strong><br>
+⚡<strong>I am a final year  CS student at NMAMIT.</strong><br>
 <br>
  📧<strong>Reach out to me: prajwalkumar0903@gmail.com</strong>
 
