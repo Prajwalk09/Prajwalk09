@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">🔭 Hey there!<br><br>🌱 I am Prajwal Kumar Bhat, a Data Analyst and a 22-year-old tech enthusiast<br><br>💡 Currently diving deep into Data Analytics, Data Science and loving the journey of turning data into insights!<br><br>💬 Feel free to reach out if you'd like to discuss anything related to Data Science or Data Analysis!</h4>
+<h4 align="left">🔭 Hey there!<br><br>🌱 I am Prajwal Kumar Bhat, a Data Analyst and a 23-year-old tech enthusiast<br><br>💡 Currently diving deep into Data Analytics, Data Science and loving the journey of turning data into insights!<br><br>💬 Feel free to reach out if you'd like to discuss anything related to Data Science or Data Analysis!</h4>
+
 
 ###
 
